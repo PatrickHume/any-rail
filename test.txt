@@ -1,0 +1,1 @@
+{"info":{"src":"MAN", "dst":"WSE", "dep":"2300", "arr":"0300", "date":"010422", "status":"incomplete"},"results":[{"src":"MAN", "dst":"WSE", "dep":"2300", "arr":"0300", "price":"5000"}]}
